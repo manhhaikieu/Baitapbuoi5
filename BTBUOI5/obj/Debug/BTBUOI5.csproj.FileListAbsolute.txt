@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\BTBUOI5\BTBUOI5\bin\Debug\BTBUOI5.exe.config
+C:\Users\LENOVO\source\repos\BTBUOI5\BTBUOI5\bin\Debug\BTBUOI5.exe
+C:\Users\LENOVO\source\repos\BTBUOI5\BTBUOI5\bin\Debug\BTBUOI5.pdb
+C:\Users\LENOVO\source\repos\BTBUOI5\BTBUOI5\obj\Debug\BTBUOI5.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\BTBUOI5\BTBUOI5\obj\Debug\BTBUOI5.Form1.resources
+C:\Users\LENOVO\source\repos\BTBUOI5\BTBUOI5\obj\Debug\BTBUOI5.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\BTBUOI5\BTBUOI5\obj\Debug\BTBUOI5.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\BTBUOI5\BTBUOI5\obj\Debug\BTBUOI5.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\BTBUOI5\BTBUOI5\obj\Debug\BTBUOI5.exe
+C:\Users\LENOVO\source\repos\BTBUOI5\BTBUOI5\obj\Debug\BTBUOI5.pdb
